@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Open URL</string>
+
+    <!--  String Values     -->
+    <string name="title">Search</string>
+    <string name="searchBarHint">eg: xyz.com or xyz.in</string>
+    <string name="search">Search</string>
+</resources>
